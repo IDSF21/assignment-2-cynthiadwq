@@ -48,7 +48,7 @@ def dataset_overview():
     '''
     '''
     ### Pre-Processing of dataset
-    Details of preprocessing can be checked out here in Jupyter notebook form. Here are some highlights I would like to mention:
+    Details of preprocessing can be checked out [here](https://github.com/IDSF21/assignment-2-cynthiadwq/blob/main/PreProcessing.ipynb) in Jupyter notebook form. Here are some highlights I would like to mention:
     - This dataset include 12 month flights data from 14 airlines, which is a huge amount of data. In order to make pre-processing 
     and visualization in my local machine, I chose January flights data from 3 major airlines: American Airline, Delta Airline and 
     United Airline. This sampled dataset contains 146875 flights, which should provide us a reasonable analysis on flight delay 
