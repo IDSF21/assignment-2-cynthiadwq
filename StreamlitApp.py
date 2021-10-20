@@ -3,7 +3,6 @@ import streamlit as st
 import pandas as pd
 import pydeck as pdk
 import numpy as np
-from streamlit_folium import folium_static
 import folium
 from branca.colormap import linear, LinearColormap
 import altair
