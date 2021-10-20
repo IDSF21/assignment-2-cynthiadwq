@@ -1,0 +1,7 @@
+numpy
+pandas
+plotly
+pydeck
+streamlit
+folium
+branca.colormap

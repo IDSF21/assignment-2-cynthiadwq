@@ -1,11 +1,9 @@
-from json import load
 import streamlit as st
 import pandas as pd
 import pydeck as pdk
 import numpy as np
 import folium
-from branca.colormap import linear, LinearColormap
-import altair
+from branca.colormap import linear
 
 st.set_page_config(page_title="Flight Delay/Cancellation Dashboard",
                    page_icon=":notes:",
