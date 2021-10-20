@@ -4,6 +4,7 @@ import pydeck as pdk
 import numpy as np
 import folium
 from branca.colormap import linear
+from streamlit_folium import folium_static
 
 st.set_page_config(page_title="Flight Delay/Cancellation Dashboard",
                    page_icon=":notes:",
